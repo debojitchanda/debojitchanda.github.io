@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://debojitchanda.github.io/sitemap.xml
