@@ -1,0 +1,25 @@
+.prose :where(a):not(:where([class~="not-prose"] *)) {
+  color: var(--tw-prose-links);
+  text-decoration: none;
+  font-weight: 500;
+  padding:  1px 5px 1px 5px;
+  -webkit-text-decoration-color: rgb(var(--color-primary-300));
+          text-decoration-color: rgb(var(--color-primary-300));
+}
+
+.prose :where(a):not(:where([class~="not-prose"] *)):hover {
+  color: rgb(var(--color-neutral));
+  text-decoration: none;
+  background-color: rgb(var(--color-primary-600));
+  border-radius: 0.25rem;
+  opacity: 0.8
+}
+
+.group:hover .group-hover\:opacity-100 {
+  opacity: 0;
+}
+
+.icon {
+  vertical-align: middle;  
+  padding-bottom: 4.5px;
+}

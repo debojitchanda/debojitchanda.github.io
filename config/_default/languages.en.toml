@@ -1,0 +1,24 @@
+languageCode = "en"
+languageName = "English"
+displayName = ":flag-in"
+isoCode = "en"
+weight = 1
+rtl = false
+
+title = "Debojit"
+#logo = "img/logo.jpg"
+copyright = "&copy; 2022 Debojit Chanda"
+description = "Personal website of Debojit Chanda"
+
+dateFormat = "2 January 2006"
+
+[author]
+  name = "Debojit Chanda"
+  image = "img/avatar.jpg"
+  #headline = "Not your ordinary theme!"
+  bio = "PMRF, IIT Kanpur"
+  links = [
+     { email = "mailto:dchanda@iitk.ac.in" },
+     { github = "https://github.com/debojitchanda" },
+     { youtube = "https://youtube.com/" },
+  ]

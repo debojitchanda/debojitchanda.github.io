@@ -1,0 +1,69 @@
+# -- Main Menu --
+# The main menu is displayed in the header at the top of the page.
+# Acceptable parameters are name, pageRef, page, url, title, weight.
+# 
+# The simplest menu configuration is to provide:
+#   name = The name to be displayed for this menu link
+#   pageRef = The identifier of the page or section to link to
+#
+# By default the menu is ordered alphabetically. This can be
+# overridden by providing a weight value. The menu will then be
+# ordered by weight from lowest to highest.
+
+[[main]]
+  name = "About"
+  pageRef = "about.md"
+  weight = 10
+
+[[main]]
+  name = "Research"
+  pageRef = "research.md"
+  weight = 20
+
+[[main]]
+  name = "Publications"
+  pageRef = "publications.md"
+  weight = 40
+
+[[main]]
+  name = "Teaching"
+  pageRef = "teaching.md"
+  weight = 30
+
+# [[main]]
+#   name = "Courses"
+#   pageRef = "courses"
+#   weight = 45
+
+# [[main]]
+#   name = "Contact"
+#   pageRef = "contact"
+#   weight = 50
+
+[[main]]
+  identifier = "others"
+  name = "Others"
+  pageRef = "blog_posts"
+  weight = 60
+
+# [[main]]
+#   parent = "others"
+#   name = "Paintings"
+#   pageRef = "watercolors"
+#   weight = 70
+  
+# [[main]]
+#   parent = "others"
+#   name = "Blog Posts"
+#   pageRef = "watercolors"
+#   weight = 80
+
+
+# -- Footer Menu --
+# The footer menu is displayed at the bottom of the page, just before
+# the copyright notice. Configure as per the main menu above.
+
+# [[footer]]
+#   name = "Tags"
+#   pageRef = "tags"
+#   weight = 10
