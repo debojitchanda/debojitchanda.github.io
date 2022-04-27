@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Watercolor Exhibition on Debojit</title>
+    <link>https://debojitchanda.github.io/watercolors/</link>
+    <description>Recent content in Watercolor Exhibition on Debojit</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>&amp;copy; 2022 Debojit Chanda</copyright>
+    <lastBuildDate>Thu, 01 Jan 1970 05:30:01 +0530</lastBuildDate><atom:link href="https://debojitchanda.github.io/watercolors/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Wait</title>
+      <link>https://debojitchanda.github.io/watercolors/wait/</link>
+      <pubDate>Thu, 01 Jan 1970 05:30:01 +0530</pubDate>
+      
+      <guid>https://debojitchanda.github.io/watercolors/wait/</guid>
+      <description>Yes, I do water colors in free time.</description>
+    </item>
+    
+  </channel>
+</rss>
