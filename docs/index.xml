@@ -7,13 +7,22 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>&amp;copy; 2022 Debojit Chanda</copyright>
-    <lastBuildDate>Thu, 17 Feb 2022 19:37:14 +0530</lastBuildDate><atom:link href="https://debojitchanda.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 18 Apr 2022 19:37:14 +0530</lastBuildDate><atom:link href="https://debojitchanda.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Demo blog post!!</title>
-      <link>https://debojitchanda.github.io/blog_posts/demo_blog_post/</link>
+      <title>Wait for paradise</title>
+      <link>https://debojitchanda.github.io/others/watercolors/wait/</link>
+      <pubDate>Mon, 18 Apr 2022 19:37:14 +0530</pubDate>
+      
+      <guid>https://debojitchanda.github.io/others/watercolors/wait/</guid>
+      <description>I was on vacation, visiting my parents in Kolkata.</description>
+    </item>
+    
+    <item>
+      <title>Demo blog post !!</title>
+      <link>https://debojitchanda.github.io/others/blog_posts/demo_blog_post/</link>
       <pubDate>Thu, 17 Feb 2022 19:37:14 +0530</pubDate>
       
-      <guid>https://debojitchanda.github.io/blog_posts/demo_blog_post/</guid>
+      <guid>https://debojitchanda.github.io/others/blog_posts/demo_blog_post/</guid>
       <description>This is a demo blog post for my homepage.</description>
     </item>
     
@@ -41,7 +50,7 @@
       <pubDate>Wed, 19 Jan 2022 02:49:51 +0530</pubDate>
       
       <guid>https://debojitchanda.github.io/publications/</guid>
-      <description>Will be update soon 😀.</description>
+      <description>To be updated soon.</description>
     </item>
     
     <item>
@@ -59,16 +68,7 @@
       <pubDate>Mon, 17 Jan 2022 21:58:58 +0530</pubDate>
       
       <guid>https://debojitchanda.github.io/about/</guid>
-      <description>To know more about me.</description>
-    </item>
-    
-    <item>
-      <title>Wait</title>
-      <link>https://debojitchanda.github.io/watercolors/wait/</link>
-      <pubDate>Thu, 01 Jan 1970 05:30:01 +0530</pubDate>
-      
-      <guid>https://debojitchanda.github.io/watercolors/wait/</guid>
-      <description>Yes, I do water colors in free time.</description>
+      <description>Hi, I am Debojit.</description>
     </item>
     
   </channel>
