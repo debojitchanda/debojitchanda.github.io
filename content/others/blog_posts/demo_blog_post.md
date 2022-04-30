@@ -1,5 +1,5 @@
 ---
-title: "Demo blog post!!"
+title: "Demo blog post !!"
 Date: 2022-02-17T19:37:14+05:30
 DateUpdated: 2022-02-17T19:37:14+05:30
 draft: false
@@ -39,7 +39,7 @@ Here, a small code-snippet is given to demonstrate how to plot and save a simple
 And here is the saved image {{<icon "tag">}}
 
 {{<figure
-src="img/posts/demo_plot.jpg"
+src="img/others/blog_posts/demo_plot.jpg"
 alt="Demo plot"
 caption="_A plot of Sin(x) vs. x_, Plotted with Python using **Matplotlib**"
 >}}
