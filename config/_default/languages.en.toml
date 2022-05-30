@@ -15,10 +15,12 @@ dateFormat = "2 January 2006"
 [author]
   name = "Debojit Chanda"
   image = "img/avatar.jpg"
-  #headline = "Not your ordinary theme!"
+  headline = "Contact Details"
   bio = "PMRF, IIT Kanpur"
   links = [
      { email = "mailto:dchanda@iitk.ac.in" },
+     { google = "mailto:dchanda.physics@gmail.com" },
      { github = "https://github.com/debojitchanda" },
-     { youtube = "https://youtube.com/" },
+     { youtube = "https://www.youtube.com/channel/UCr327AE2Me4NzOKBgtKAV6A" },
+     { map = "https://www.youtube.com/channel/UCr327AE2Me4NzOKBgtKAV6A" },
   ]

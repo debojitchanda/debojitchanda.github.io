@@ -13,6 +13,11 @@ layout: page
 ### [Department of Physics](https://iitk.ac.in/phy), [IIT Kanpur](https://iitk.ac.in/)
 
 
+
+
 <!-- <p> -->
-Welcome to my homepage. I am Debojit, a reserch scholar of IIT Kanpur, in the Department of Physics. To know more, visit my [about](./about) page.
+Welcome to my homepage. 
+
+I am Debojit, a graduate student of IIT Kanpur, in the Department of Physics. To know more, visit my [about](./about) page.
+To contact me, visit the [contact](../contact) page.
 <!-- </p> -->

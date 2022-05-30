@@ -16,7 +16,7 @@ enableCodeCopy = true
 
 mainSections = ["section"]
 # robots = ""
-attribution = true
+attribution = false
 showScrollToTop = false
 
 [homepage]
@@ -36,7 +36,7 @@ showScrollToTop = false
   showPagination = false
   invertPagination = false
   showReadingTime = false
-  showTableOfContents = true
+  showTableOfContents = false
   showTaxonomies = true
   showWordCount = false
   # sharingLinks = ["facebook", "twitter", "pinterest", "reddit", "linkedin", "email"]

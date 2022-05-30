@@ -30,34 +30,11 @@
   pageRef = "teaching.md"
   weight = 30
 
-# [[main]]
-#   name = "Courses"
-#   pageRef = "courses"
-#   weight = 45
-
-# [[main]]
-#   name = "Contact"
-#   pageRef = "contact"
-#   weight = 50
-
 [[main]]
   identifier = "others"
   name = "Others"
-  pageRef = "blog_posts"
+  pageRef = "others"
   weight = 60
-
-# [[main]]
-#   parent = "others"
-#   name = "Paintings"
-#   pageRef = "watercolors"
-#   weight = 70
-  
-# [[main]]
-#   parent = "others"
-#   name = "Blog Posts"
-#   pageRef = "watercolors"
-#   weight = 80
-
 
 # -- Footer Menu --
 # The footer menu is displayed at the bottom of the page, just before

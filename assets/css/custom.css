@@ -23,3 +23,13 @@
   vertical-align: middle;  
   padding-bottom: 3.5px;
 }
+
+details summary { 
+  cursor: pointer;
+}
+
+details summary > * {
+  display: inline;
+}
+
+s.hl { padding-left: 5em; }
