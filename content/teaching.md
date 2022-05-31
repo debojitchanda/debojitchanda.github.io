@@ -10,9 +10,13 @@ draft: false
 I have been conducting a lecture series on YouTube targeted toward JAM/JEST aspirants. In this lecture series, I have discussed problems of **thermal physics**, which appeared in previous year's examinations; and I have also taught the <ins>*relevant topics*</ins>. I think these lectures will be very beneficial to the students.
 
 {{< alert "youtube" >}}
+Find the full lecture playlist on [_YouTube_](https://www.youtube.com/watch?v=_HiEbjfj11A&list=PLUyLfGiUNTQmcIYfhKbdw_wXXOsQFniEJ)
+{{< /alert >}}
 
-Find the full lecture playlist on [_YouTube →→_](https://www.youtube.com/watch?v=_HiEbjfj11A&list=PLUyLfGiUNTQmcIYfhKbdw_wXXOsQFniEJ)
 
+
+{{< alert "google" >}}
+Find the all lecture notes on [_Google Drive_](https://drive.google.com/drive/folders/1PEnaeGqTl0eXSqkLpe8BBDyY6JJ78O9B?usp=sharing)
 {{< /alert >}}
 
 
@@ -27,24 +31,27 @@ Find the full lecture playlist on [_YouTube →→_](https://www.youtube.com/wat
 2. *Lecture-02* [YouTube {{< icon "youtube" >}}](https://youtu.be/v5EDWafuWdY) - [Notes {{< icon "edit" >}}](https://drive.google.com/file/d/1sZl7Sdn9DT2MityEYPByvpRNJRBjgFZr/view?usp=sharing)
 3. *Lecture-03* [YouTube {{< icon "youtube" >}}](https://youtu.be/LLngWBlEO2k) - [Notes {{< icon "edit" >}}](https://drive.google.com/file/d/1N6Fm9yPP6kx4vi46932FN8A8E_6N-7qM/view?usp=sharing)
 4. *Lecture-04* [YouTube {{< icon "youtube" >}}](https://youtu.be/I1DU_UnnmZA) - [Notes {{< icon "edit" >}}](https://drive.google.com/file/d/1N6Fm9yPP6kx4vi46932FN8A8E_6N-7qM/view?usp=sharing)
-5. *Lecture-05* [YouTube {{< icon "youtube" >}}](#) - [Notes {{< icon "edit" >}}](#)
-6. *Lecture-06* [YouTube {{< icon "youtube" >}}](#) - [Notes {{< icon "edit" >}}](#)
+5. *Lecture-05* [YouTube {{< icon "youtube" >}}](https://youtu.be/duihyjcYcVY) - [Notes {{< icon "edit" >}}](https://drive.google.com/file/d/1KThHu1DE7292vcdLmMIoPSKhQszMUvz2/view?usp=sharing)
+6. *Lecture-06* [YouTube {{< icon "youtube" >}}](https://youtu.be/ctz83ff6bf8) - [Notes {{< icon "edit" >}}](https://drive.google.com/file/d/112RfhI567X-5_VjW-IBuoylByYnKlh5y/view?usp=sharing)
 7. *Lecture-07* [YouTube {{< icon "youtube" >}}](https://youtu.be/leT3Dm-YhsQ) - [Notes {{< icon "edit" >}}](https://drive.google.com/file/d/15d96J83ViOCf4GsjiWV9Ftgzr0C-RFH1/view?usp=sharing)
 8. *Lecture-08* [YouTube {{< icon "youtube" >}}](https://youtu.be/yyYPWWejnaA) - [Notes {{< icon "edit" >}}](https://drive.google.com/file/d/15d96J83ViOCf4GsjiWV9Ftgzr0C-RFH1/view?usp=sharing)
-9. *Lecture-09* [YouTube {{< icon "youtube" >}}](#) - [Notes {{< icon "edit" >}}](#)
-10. *Lecture-10* [YouTube {{< icon "youtube" >}}](#) - [Notes {{< icon "edit" >}}](#)
-11. *Lecture-11* [YouTube {{< icon "youtube" >}}](#) - [Notes {{< icon "edit" >}}](#)
-12. *Lecture-12* [YouTube {{< icon "youtube" >}}](#) - [Notes {{< icon "edit" >}}](#)
-13. *Lecture-13* [YouTube {{< icon "youtube" >}}](#) - [Notes {{< icon "edit" >}}](#)
-14. *Lecture-14* [YouTube {{< icon "youtube" >}}](#) - [Notes {{< icon "edit" >}}](#)
-15. *Lecture-15* [YouTube {{< icon "youtube" >}}](#) - [Notes {{< icon "edit" >}}](#)
-16. *Lecture-16* [YouTube {{< icon "youtube" >}}](#) - [Notes {{< icon "edit" >}}](#)
-17. *Lecture-17* [YouTube {{< icon "youtube" >}}](#) - [Notes {{< icon "edit" >}}](#)
-<!-- 18. *Lecture-18* [YouTube {{< icon "youtube" >}}](#)  [Notes {{< icon "edit" >}}](#)
-19. *Lecture-19* [YouTube {{< icon "youtube" >}}](#)  [Notes {{< icon "edit" >}}](#)
-20. *Lecture-20* [YouTube {{< icon "youtube" >}}](#)  [Notes {{< icon "edit" >}}](#) -->
+9. *Lecture-09* [YouTube {{< icon "youtube" >}}](https://youtu.be/gVp94QfZw90) - [Notes {{< icon "edit" >}}](https://drive.google.com/file/d/1pKpUSr2JXp2z7DgRrmIKbRXO1bkZv-6o/view?usp=sharing)
+10. *Lecture-10* [YouTube {{< icon "youtube" >}}](https://youtu.be/mZfJUOG2rjA) - [Notes {{< icon "edit" >}}](https://drive.google.com/file/d/1gLxdWd0CjEeMdlthH001tjjWhNUlpfF6/view?usp=sharing)
+11. *Lecture-11* [YouTube {{< icon "youtube" >}}](https://youtu.be/8dnalFEoH5A) - [Notes {{< icon "edit" >}}](https://drive.google.com/file/d/1qRXwtulPHThCwYRa6pE1ZIqQJjJxxeVE/view?usp=sharing)
+12. *Lecture-12* [YouTube {{< icon "youtube" >}}](https://youtu.be/8Ly04oATQcs) - [Notes {{< icon "edit" >}}](https://drive.google.com/file/d/14gSsbFWo6dDVQZFtEEEoSww_2hK-qOBw/view?usp=sharing)
+13. *Lecture-13* [YouTube {{< icon "youtube" >}}](https://youtu.be/xpyE2tPESWE) - [Notes {{< icon "edit" >}}](https://drive.google.com/file/d/1N-5KgrnPPWbF5pBHnBvbrFe42PCBRNll/view?usp=sharing)
+14. *Lecture-14* [YouTube {{< icon "youtube" >}}](https://youtu.be/dyfhdGX3a2Q) - [Notes {{< icon "edit" >}}](https://drive.google.com/file/d/19MRn4Ibux54ZjlHL7gUQfad9z4Zfm_Qj/view?usp=sharing)
+15. *Lecture-15* [YouTube {{< icon "youtube" >}}](https://youtu.be/zsEDb3mfgdQ) - [Notes {{< icon "edit" >}}](https://drive.google.com/file/d/1ko_kIceaB1AiTHmAhfxyXdS0a_94uoRS/view?usp=sharing)
+16. *Lecture-16* [YouTube {{< icon "youtube" >}}](https://youtu.be/Fu6beUTP9_E) - [Notes {{< icon "edit" >}}](https://drive.google.com/file/d/1Vtu-Lr27MT-K1BXGlH1NHxVxf6NmgWyu/view?usp=sharing)
+17. *Lecture-17* [YouTube {{< icon "youtube" >}}](https://youtu.be/AQ1lPY5xSCA) - [Notes {{< icon "edit" >}}](https://drive.google.com/file/d/1MbbzK3zQM6Q0lsri9fdA-P1bXcJGnHnb/view?usp=sharing)
+18. *Lecture-18* [YouTube {{< icon "youtube" >}}](https://youtu.be/zvLmeG3_8RM) - [Notes {{< icon "edit" >}}](https://drive.google.com/file/d/1Yam47Ay8CcYOamRLx1BOQoM4I147-nZj/view?usp=sharing)
+<!-- 19. *Lecture-19* [YouTube {{< icon "youtube" >}}](#) - [Notes {{< icon "edit" >}}](#)
+20. *Lecture-20* [YouTube {{< icon "youtube" >}}](#) - [Notes {{< icon "edit" >}}](#)
+21. *Lecture-21* [YouTube {{< icon "youtube" >}}](#) - [Notes {{< icon "edit" >}}](#)
+22. *Lecture-22* [YouTube {{< icon "youtube" >}}](#) - [Notes {{< icon "edit" >}}](#)
+23. *Lecture-23* [YouTube {{< icon "youtube" >}}](#) - [Notes {{< icon "edit" >}}](#) -->
 <!-- </details> -->
-_6 more lectures to be uploaded soon._
+_**5 more** lectures to be uploaded soon._
 
 ## Institute Teaching Assistantship
 #### 2020-2021
