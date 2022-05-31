@@ -9,11 +9,17 @@ draft: false
 #### 2021-2022
 I have been conducting a lecture series on YouTube targeted toward JAM/JEST aspirants. In this lecture series, I have discussed problems of **thermal physics**, which appeared in previous year's examinations; and I have also taught the <ins>*relevant topics*</ins>. I think these lectures will be very beneficial to the students.
 
+{{< lead >}}
+*Link to playlist is given below ↡*
+{{< /lead >}}
+
 {{< alert "youtube" >}}
 Find the full lecture playlist on [_YouTube_](https://www.youtube.com/watch?v=_HiEbjfj11A&list=PLUyLfGiUNTQmcIYfhKbdw_wXXOsQFniEJ)
 {{< /alert >}}
 
-
+{{< lead >}}
+*Link to all lecture notes is given below ↡*
+{{< /lead >}}
 
 {{< alert "google" >}}
 Find the all lecture notes on [_Google Drive_](https://drive.google.com/drive/folders/1PEnaeGqTl0eXSqkLpe8BBDyY6JJ78O9B?usp=sharing)
@@ -26,7 +32,6 @@ Find the all lecture notes on [_Google Drive_](https://drive.google.com/drive/fo
 
 <!-- <details>
 <summary><h4>Click to expand ↴ </h4></summary> -->
-
 1. *Lecture-01* [YouTube {{< icon "youtube" >}}](https://youtu.be/_HiEbjfj11A) - [Notes {{< icon "edit" >}}](https://drive.google.com/file/d/11JVpCzE6yxDlFofvO25RCgJggUussHed/view?usp=sharing)
 2. *Lecture-02* [YouTube {{< icon "youtube" >}}](https://youtu.be/v5EDWafuWdY) - [Notes {{< icon "edit" >}}](https://drive.google.com/file/d/1sZl7Sdn9DT2MityEYPByvpRNJRBjgFZr/view?usp=sharing)
 3. *Lecture-03* [YouTube {{< icon "youtube" >}}](https://youtu.be/LLngWBlEO2k) - [Notes {{< icon "edit" >}}](https://drive.google.com/file/d/1N6Fm9yPP6kx4vi46932FN8A8E_6N-7qM/view?usp=sharing)
