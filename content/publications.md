@@ -8,7 +8,7 @@ draft: false
 To be updated soon.
 
 ## Work(s) in progress
-To be updated soon.
+1. Orientational fluctuations govern the route to crystallization of hard-interacting Brownian squares (_Yet to be communicated_)
 
 
 ## Colloquiums and Seminars
