@@ -21,7 +21,7 @@ Besides my research, I also paint watercolor landscapes, though I do not find mu
  - Qualified in _Graduate Aptitude Test in Engineering (GATE)_ - 2020
  - **AIR 119 (JRF)** in _Joint CSIR-UGC National Eligibility Test (NET) in Physics_ - 2019
  - **AIR 60** in _Joint Entrance Screening Test (JEST)_ - 2018
- - **AIR 69** in _Joint Admission test for Masters (JAM)_ - 2020
+ - **AIR 69** in _Joint Admission test for Masters (JAM)_ - 2018
 
 To know more about me. You can download my [CV here](/pdf/cv.pdf).
 To contact me, visit the [contact](../contact) page.
