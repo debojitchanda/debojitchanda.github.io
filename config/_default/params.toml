@@ -5,7 +5,7 @@
 # Refer to the theme docs for more details about each of these parameters.
 # https://jpanther.github.io/congo/docs/configuration/#theme-parameters
 
-colorScheme = "ocean"
+colorScheme = "avocado"
 defaultAppearance = "light"
 autoSwitchAppearance = true
 showAppearanceSwitcher = true
@@ -63,7 +63,7 @@ showScrollToTop = false
   # pinterest = ""
   # yandex = ""
 
-[colors]
-colorPrimary    = "amber"
-colorSecondary  = "emerald"
+#[colors]
+#colorPrimary    = "gold"
+#colorSecondary  = "emerald"
 #colorNeutral    = "zinc"

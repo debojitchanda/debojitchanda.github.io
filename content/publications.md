@@ -5,11 +5,11 @@ draft: false
 ---
 
 ## Publications
-To be updated soon.
+Stay tuned for updates.
 
 ## Work(s) in progress
-1. Orientational fluctuations govern the route to crystallization of hard-interacting Brownian squares (_Yet to be communicated_).
-2. Non muscle myosin IIA motor activity generates a concentration dependent scaling of actin dynamics (_Yet to be communicated_).
+1. Non muscle myosin IIA motor activity generates a concentration dependent scaling of actin dynamics (_Yet to be communicated_).
+2. Orientational fluctuations govern the route to crystallization of hard-interacting Brownian squares (_Yet to be communicated_).
 
 
 ## Colloquiums and Seminars
