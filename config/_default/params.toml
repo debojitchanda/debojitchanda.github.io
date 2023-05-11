@@ -64,6 +64,6 @@ showScrollToTop = false
   # yandex = ""
 
 [colors]
-colorPrimary    = "green"
+colorPrimary    = "amber"
 colorSecondary  = "emerald"
-colorNeutral    = "zinc"
+#colorNeutral    = "zinc"

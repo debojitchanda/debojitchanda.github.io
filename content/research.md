@@ -29,3 +29,11 @@ alt="tissue_cells"
 caption="__Figure__ : _Shows a tissue cell adhered to the cover glass and optical handles attached to the cell membrane_"
 >}}
 
+### The curious case of red blood cells (RBCs)
+Human Red Blood Cells (also known as RBCs) are a cruial component of blood. These cells travel through blood capillaries which are much smaller than their typical size, so they are highly deformable. We study the deformibility of RBCs using optical tweezer based force-elongation measurements.
+
+{{<figure 
+src="/research/rbc_cells.png"
+alt="rbc_cells"
+caption="__Figure__ : _(left) Brightfield image of Human red blood cells. (right) Deforming RBCs by pulling a polystyrene bead using optical tweezers_"
+>}}

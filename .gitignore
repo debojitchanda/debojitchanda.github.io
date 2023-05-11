@@ -3,6 +3,7 @@ exampleSite
 themes
 _vendor
 *.bak
+*.old
 layouts
 archetypes
 
