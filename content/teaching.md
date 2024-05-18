@@ -6,6 +6,17 @@ draft: false
 
 
 ## Teaching activities outside IIT Kanpur
+### 2023-2024
+
+#### Workshops
+1. Conducted <ins>Python workshop: From basics to applications in Physics</ins> in the _Department of Physics_, of School of Basic Science of **Chhatrapati Shahu Ji Maharaj University (CSJM)**.
+
+    __Duration__: April, 2024 _(25 hours)_
+
+2. Conducted <ins>LaTeX workshop: General type-setting and advanced features of acedemics</ins> in the _Department of Physics_, of School of Basic Science of **Chhatrapati Shahu Ji Maharaj University (CSJM)**.
+
+    __Duration__: April, 2024 _(25 hours)_
+
 ### 2022-2023
 #### Teaching Assistant
 1. Teaching Assistant for the __NPTEL course__  *Calculus of One Real Variable (2022)*
@@ -26,7 +37,7 @@ Find all the tutorial lecture playlist on [_YouTube_](https://www.youtube.com/wa
 {{< /alert >}}
 
 #### Workshops
-2. Conducted <ins>Advanced LaTeX workshop</ins> in the _Department of Information Technology_, of University Institute of Engineering and Technology (UIET) of **Chhatrapati Shahu Ji Maharaj University (CSJM)**.
+1. Conducted <ins>Advanced LaTeX workshop</ins> in the _Department of Information Technology_, of University Institute of Engineering and Technology (UIET) of **Chhatrapati Shahu Ji Maharaj University (CSJM)**.
 
     __Duration__: September - October, 2022 _(30 hours)_
 

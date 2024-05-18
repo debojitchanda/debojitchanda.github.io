@@ -6,7 +6,7 @@ layout: page
 ---
 Hi, I am Debojit. Again, welcome to my website.
 
-I am a second-year graduate student in the [Department of Physics](https://iitk.ac.in/phy) at the Indian Institute of Technology Kanpur. I work in the field of Soft Matter Physics in the [Soft & Active Matter Lab](https://www.iitk.ac.in/sam) under the supervision of [Dr. Manas Khan](https://home.iitk.ac.in/~mkhan/). My current research aims to identify and address the similarities between biological and colloidal membranes and design artificial membranes with bioengineered colloids.
+I am a fourth-year graduate student in the [Department of Physics](https://iitk.ac.in/phy) at the Indian Institute of Technology Kanpur. I work in the field of Soft Matter Physics in the [Soft & Active Matter Lab](https://www.iitk.ac.in/sam) under the supervision of [Dr. Manas Khan](https://home.iitk.ac.in/~mkhan/). My current research aims to identify and address the similarities between biological and colloidal membranes and design artificial membranes with bioengineered colloids.
 
 Besides my research, I also paint watercolor landscapes, though I do not find much time. Sometimes, I also play football and watch animes.
 

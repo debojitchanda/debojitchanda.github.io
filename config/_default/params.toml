@@ -8,7 +8,7 @@
 colorScheme = "avocado"
 defaultAppearance = "light"
 autoSwitchAppearance = true
-showAppearanceSwitcher = true
+footer.showAppearanceSwitcher = true
 
 enableSearch = true
 enableCodeCopy = true
@@ -17,7 +17,7 @@ enableCodeCopy = true
 mainSections = ["section"]
 # robots = ""
 attribution = false
-showScrollToTop = false
+footer.showScrollToTop = false
 
 [homepage]
   layout = "profile" # valid options: page, profile, custom

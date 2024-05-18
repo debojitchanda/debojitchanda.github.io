@@ -11,7 +11,7 @@ draft: false
 I am currently working in the following projects.
 
 ### Crystallization of asymmetric colloids
-We study the crystallization process of square-shaped Brownian particles. These particles interact via hard-sphere interaction and crystallizes with various symmetries under osmotic compression. Both translational and orientational fluctuations need to be taken into account to understand the crystallization dynamics.
+We study the crystallization process of square-shaped Brownian particles. These particles interact via hard-sphere interaction and crystallizes with various symmetries under osmotic compression. Both translational and orientational fluctuations need to be taken into account to understand the crystallization dynamics. We will also look at defect dynamics in such systems.
 
 {{<figure 
 src="/research/square.png"
