@@ -1,19 +1,19 @@
 ---
-title: "Don't you love the skies"
+title: "Don't you love the sky?"
 Date: 2024-12-25
 draft: false
 ---
 
-
+One of my favorite subjects to paint. Enjoy!!
 
 {{<figure
-src="/others/watercolors/wait.jpg"
-alt="watercolor:wait"
-caption="__Infinity canvas__ : _A mystique sunset seen over the see._ Medium: Watercolor (Camel's Artists' Tube)"
+src="/others/watercolors/sky1.jpg"
+alt="watercolor:sky1"
+caption="__Infinity canvas__ : _Serene sunset and the rain clouds gather._ Medium: Watercolor (Camel's Artists' Tube)"
 >}}
 
 {{<figure
-src="/others/watercolors/vinland.jpg"
-alt="watercolor:vinland"
-caption="__Shades of heaven__ : _A distant land of paradise, inspired from the manga [Vinland Saga](https://en.wikipedia.org/wiki/Vinland_Saga_(manga))._ Medium: Watercolor (Camel's Artists' Tube)"
+src="/others/watercolors/sky2.png"
+alt="watercolor:sky2"
+caption="__Shades of heaven and earth__ : _Close your eyes and watch the sky, feel the shadows of the clouds passing by!_ Medium: Watercolor (Camel's Artists' Tube)"
 >}}

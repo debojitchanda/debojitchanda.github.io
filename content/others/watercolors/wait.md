@@ -1,7 +1,6 @@
 ---
-title: "Wait for paradise"
+title: "Wait for paradise!"
 Date: 2022-04-18T19:37:14+05:30
-DateUpdated: 2022-04-18T19:37:14+05:30
 draft: false
 ---
 I was on vacation, visiting my parents in Kolkata. It was summer time and I was devastated by the humidity and heat. Watercolor came to my rescue.
