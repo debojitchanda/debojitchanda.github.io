@@ -39,7 +39,7 @@ Here, a small code-snippet is given to demonstrate how to plot and save a simple
 And here is the saved image {{<icon "tag">}}
 
 {{<figure
-src="img/others/blog_posts/demo_plot.jpg"
+src="/others/blog_posts/demo_plot.jpg"
 alt="Demo plot"
 caption="_A plot of Sin(x) vs. x_, Plotted with Python using **Matplotlib**"
 >}}

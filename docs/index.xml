@@ -6,57 +6,64 @@
     <description>Recent content on Debojit</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <copyright>&amp;copy; 2024 Debojit Chanda</copyright>
-    <lastBuildDate>Mon, 18 Apr 2022 19:37:14 +0530</lastBuildDate>
+    <copyright>&amp;copy; 2025 Debojit Chanda</copyright>
+    <lastBuildDate>Wed, 25 Dec 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://debojitchanda.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Don&#39;t you love the skies</title>
+      <link>https://debojitchanda.github.io/others/watercolors/sky/</link>
+      <pubDate>Wed, 25 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://debojitchanda.github.io/others/watercolors/sky/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Wait for paradise</title>
       <link>https://debojitchanda.github.io/others/watercolors/wait/</link>
       <pubDate>Mon, 18 Apr 2022 19:37:14 +0530</pubDate>
       <guid>https://debojitchanda.github.io/others/watercolors/wait/</guid>
-      <description>I was on vacation, visiting my parents in Kolkata.</description>
+      <description></description>
     </item>
     <item>
       <title>Demo blog post !!</title>
       <link>https://debojitchanda.github.io/others/blog_posts/demo_blog_post/</link>
       <pubDate>Thu, 17 Feb 2022 19:37:14 +0530</pubDate>
       <guid>https://debojitchanda.github.io/others/blog_posts/demo_blog_post/</guid>
-      <description>This is a demo blog post for my homepage.</description>
-    </item>
-    <item>
-      <title>Contact Me</title>
-      <link>https://debojitchanda.github.io/contact/</link>
-      <pubDate>Sat, 22 Jan 2022 21:57:53 +0530</pubDate>
-      <guid>https://debojitchanda.github.io/contact/</guid>
-      <description>Email - I can be contacted via office email or personal email.</description>
+      <description></description>
     </item>
     <item>
       <title>My Teaching Activities</title>
       <link>https://debojitchanda.github.io/teaching/</link>
       <pubDate>Wed, 19 Jan 2022 21:58:47 +0530</pubDate>
       <guid>https://debojitchanda.github.io/teaching/</guid>
-      <description>Teaching activities outside IIT Kanpur #2023-2024 #Workshops # Conducted Python workshop: From basics to applications in Physics in the Department of Physics, of School of Basic Science of Chhatrapati Shahu Ji Maharaj University (CSJM).</description>
-    </item>
-    <item>
-      <title>Publications</title>
-      <link>https://debojitchanda.github.io/publications/</link>
-      <pubDate>Wed, 19 Jan 2022 02:49:51 +0530</pubDate>
-      <guid>https://debojitchanda.github.io/publications/</guid>
-      <description>Publications # Non muscle myosin IIA motor activity generates a concentration dependent dynamic actin network - Saurabh Shrivastava, Debojit Chanda, Shayeri Chowdhury, Saadia Naseer, Farmaanullah Ansari, Manas Khan, and Anita Roy (under communication).</description>
-    </item>
-    <item>
-      <title>Research</title>
-      <link>https://debojitchanda.github.io/research/</link>
-      <pubDate>Tue, 18 Jan 2022 02:47:43 +0530</pubDate>
-      <guid>https://debojitchanda.github.io/research/</guid>
-      <description>Research Projects #I am currently working in the following projects.</description>
+      <description></description>
     </item>
     <item>
       <title>About</title>
       <link>https://debojitchanda.github.io/about/</link>
-      <pubDate>Mon, 17 Jan 2022 21:58:58 +0530</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://debojitchanda.github.io/about/</guid>
-      <description>Hi, I am Debojit.</description>
+      <description></description>
+    </item>
+    <item>
+      <title>Contact Me</title>
+      <link>https://debojitchanda.github.io/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://debojitchanda.github.io/contact/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Publications</title>
+      <link>https://debojitchanda.github.io/publications/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://debojitchanda.github.io/publications/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Research</title>
+      <link>https://debojitchanda.github.io/research/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://debojitchanda.github.io/research/</guid>
+      <description></description>
     </item>
   </channel>
 </rss>

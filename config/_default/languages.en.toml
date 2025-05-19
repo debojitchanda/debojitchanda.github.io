@@ -7,7 +7,7 @@ rtl = false
 
 title = "Debojit"
 #logo = "img/logo.jpg"
-copyright = "&copy; 2024 Debojit Chanda"
+copyright = "&copy; 2025 Debojit Chanda"
 description = "Personal website of Debojit Chanda"
 
 dateFormat = "2 January 2006"
@@ -19,7 +19,7 @@ dateFormat = "2 January 2006"
   bio = "PMRF, IIT Kanpur"
   links = [
      { email = "mailto:dchanda@iitk.ac.in" },
-     { google = "mailto:dchanda.physics@gmail.com" },
+     { google = "https://scholar.google.com/citations?user=FO7eN_gAAAAJ&hl=en" },
      { github = "https://github.com/debojitchanda" },
      { youtube = "https://www.youtube.com/channel/UCr327AE2Me4NzOKBgtKAV6A" },
      { map = "https://www.youtube.com/channel/UCr327AE2Me4NzOKBgtKAV6A" },
